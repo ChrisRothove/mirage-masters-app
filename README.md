@@ -10,3 +10,11 @@
 - Display for starter decks
 - card look-up
 - simulate card pulls from packs
+- database to record player accounts and card collections
+- Story/VS mode
+
+## Advanced Features
+
+- Player vs. Player arena
+- Trading feature
+- Collection features
